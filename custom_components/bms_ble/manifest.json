@@ -3,7 +3,7 @@
   "name": "BLE Battery Management System",
   "bluetooth": [
     {
-      "local_name": "AP S*"
+      "local_name": "AP *"
     },
     {
       "local_name": "BMS-*"
